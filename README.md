@@ -6,6 +6,7 @@
 - navigation using flexbox
 - google fonts
 - button design using css
+- Inline CSS
 
 > **Live website Link :** (Plant / Gardening Tools eCommerce website)[https://plant-selling-ecommerce-template.netlify.app/]
 
